@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MiguelFraire
-- I have a passion for iOS development
+- Hi, I’m @MiguelFraire
+- I am an indie iOS developer
 - Let's collaborate ✌️
 - You can reach me at miguelfr.dev@gmail.com
 
