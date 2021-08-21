@@ -1,7 +1,7 @@
-- Hi, I’m @MiguelFraire
-- I am an indie iOS developer
+- Hi I’m Miguel
+- I am an indie iOS developer from Austin, Texas
 - Let's collaborate ✌️
-- You can reach me at miguelfr.dev@gmail.com
+- You can always reach me at miguelfr.dev@gmail.com
 
 <!---
 MiguelFraire/MiguelFraire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
