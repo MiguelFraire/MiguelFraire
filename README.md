@@ -1,7 +1,6 @@
-- Hi I’m Miguel
-- I am an indie iOS developer from Austin, Texas
-- Let's collaborate ✌️
-- You can always reach me at miguelfr.dev@gmail.com
+Experienced iOS & React Developer | Passionate about problem-solving & collaboration 🚀
+
+Former iOS dev turned React enthusiast. Love crafting user-friendly mobile apps & solving challenges. Thrived post-accident; resilient & eager to make waves in Seattle's tech scene. Let's code together! 💻
 
 <!---
 MiguelFraire/MiguelFraire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
